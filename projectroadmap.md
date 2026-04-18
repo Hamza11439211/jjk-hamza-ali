@@ -7,3 +7,4 @@ Sprint 1: Project Initiation
  It didnt give me any errors but the input for the text adventure game would not push me to the next phase  and i would get stuck in a loop 
  I need to check why  this loop keeps occuring and why it  dosnt lallow you to move on to the next room 
  
+[x]
