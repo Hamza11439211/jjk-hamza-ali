@@ -8,3 +8,4 @@ Sprint 1: Project Initiation
  I need to check why  this loop keeps occuring and why it  dosnt lallow you to move on to the next room 
  
 [x]
+- [x] 
